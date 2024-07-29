@@ -39,10 +39,9 @@ This is a web-based platform designed to facilitate seamless access to education
 
 ## Preview
 ![Screenshot (339)](https://github.com/user-attachments/assets/88f8233f-6d91-4e16-834f-7357e63966d2)
-
-![Screenshot (342)](https://github.com/user-attachments/assets/47b73621-5cf6-40c7-9eb6-e22174ac4bbf)
-
+![Screenshot (346)](https://github.com/user-attachments/assets/e9d01178-9a47-4d3f-940b-6ee38bce4dce)
 ![Screenshot (343)](https://github.com/user-attachments/assets/ccaabc20-e617-402c-8070-1b0b574d355d)
+
 
 
 
