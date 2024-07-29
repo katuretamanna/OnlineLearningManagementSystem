@@ -38,7 +38,8 @@ This is a web-based platform designed to facilitate seamless access to education
 - **watch-video.html**: Page for watching course videos.
 
 ## Preview
-![Preview](preview.png)
+![Screenshot (342)](https://github.com/user-attachments/assets/47b73621-5cf6-40c7-9eb6-e22174ac4bbf)
+
 
 
 
