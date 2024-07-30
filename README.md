@@ -4,7 +4,7 @@
 
 ## Deployment
 The website is live at: 
-https://katuretamanna.github.io/OnlineLearningManagementSystem/home.html
+https://online-learning-management-system.netlify.app/
 
 ## Overview
 This is a web-based platform designed to facilitate seamless access to educational resources and courses. Developed using HTML, CSS, and JavaScript, this platform offers a user-friendly interface and essential functionalities such as user authentication and account management.
